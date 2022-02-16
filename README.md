@@ -26,7 +26,7 @@ $ git clone git@github.com:BoisselNicolas/ML.NET-TaxiFare.git
 
 Dans le fichier "consumeModelApp/Program.cs"
 
-Saisissez une donnée d'entrée dans la partie 
+Saisissez les données d'entrée dans la partie 
 
 ```
 var input = new ModelInput(){
