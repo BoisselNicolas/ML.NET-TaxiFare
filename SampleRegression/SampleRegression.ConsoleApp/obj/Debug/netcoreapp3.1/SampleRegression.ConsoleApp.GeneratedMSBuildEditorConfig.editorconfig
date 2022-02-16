@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SampleRegression.ConsoleApp
+build_property.ProjectDir = /home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.ConsoleApp/

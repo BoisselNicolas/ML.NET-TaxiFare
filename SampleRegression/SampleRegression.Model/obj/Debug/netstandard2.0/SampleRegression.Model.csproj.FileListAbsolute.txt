@@ -1,0 +1,11 @@
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/bin/Debug/netstandard2.0/MLModel.zip
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/bin/Debug/netstandard2.0/SampleRegression.Model.deps.json
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/bin/Debug/netstandard2.0/SampleRegression.Model.dll
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/bin/Debug/netstandard2.0/SampleRegression.Model.pdb
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.csproj.AssemblyReference.cache
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.AssemblyInfoInputs.cache
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.AssemblyInfo.cs
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.csproj.CoreCompileInputs.cache
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.dll
+/home/nicolas/Dev/ML/TaxiFare/SampleRegression/SampleRegression.Model/obj/Debug/netstandard2.0/SampleRegression.Model.pdb
